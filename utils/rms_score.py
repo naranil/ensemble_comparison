@@ -13,8 +13,6 @@ Brier score on Wikipedia : https://en.wikipedia.org/wiki/Brier_score
 Root mean square error on Wikipedia : https://en.wikipedia.org/wiki/Root-mean-square_deviation
 """
 
-__author__ = 'anilnarassiguin'
-
 from sklearn.metrics import make_scorer
 
 import numpy as np
