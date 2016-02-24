@@ -1,3 +1,4 @@
+from __future__ import division
 """
 Filter used in our experiment:
 Signal to Noise ratio (SNR) filter
@@ -10,8 +11,6 @@ SNR filter.
 In the machine learning experiments performed here, features are selected on big databases (more than 1000 features)
 ----------
 """
-
-from __future__ import division
 
 import numpy as np
 
