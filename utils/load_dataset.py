@@ -8,6 +8,8 @@ from __future__ import division
 
 """
 Use those functions to call databases.
+This code is given only to show the reader how we construct our databases and store them in a HDFS file. You can
+download all the datasets on : https://s3-eu-west-1.amazonaws.com/ensemble-comparison-data/datasets.h5
 ----------
 UCI machine learning repository: http://archive.ics.uci.edu/ml/
 """
